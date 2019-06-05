@@ -1,4 +1,4 @@
-class Network < ActiveRecord::Base[5.2]
+class Network < ActiveRecord::Base
   def sorry
     "We're sorry about passing on John Mulaney's pilot"
   end
