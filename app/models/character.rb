@@ -1,3 +1,3 @@
-class Character < ActiveRecord::Base[5.2]
+class Character < ActiveRecord::Base
   belongs_to :actor
 end
